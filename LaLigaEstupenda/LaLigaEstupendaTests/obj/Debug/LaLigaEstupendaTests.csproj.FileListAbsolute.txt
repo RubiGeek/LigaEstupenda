@@ -1,0 +1,16 @@
+c:\users\hecto\onedrive\documentos\visual studio 2015\Projects\LaLigaEstupenda\LaLigaEstupendaTests\obj\Debug\LaLigaEstupendaTests.csprojResolveAssemblyReference.cache
+c:\users\hecto\onedrive\documentos\visual studio 2015\Projects\LaLigaEstupenda\LaLigaEstupendaTests\bin\Debug\LaLigaEstupendaTests.dll
+c:\users\hecto\onedrive\documentos\visual studio 2015\Projects\LaLigaEstupenda\LaLigaEstupendaTests\bin\Debug\LaLigaEstupendaTests.pdb
+c:\users\hecto\onedrive\documentos\visual studio 2015\Projects\LaLigaEstupenda\LaLigaEstupendaTests\bin\Debug\LaLigaEstupenda.exe
+c:\users\hecto\onedrive\documentos\visual studio 2015\Projects\LaLigaEstupenda\LaLigaEstupendaTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\hecto\onedrive\documentos\visual studio 2015\Projects\LaLigaEstupenda\LaLigaEstupendaTests\bin\Debug\LaLigaEstupenda.pdb
+c:\users\hecto\onedrive\documentos\visual studio 2015\Projects\LaLigaEstupenda\LaLigaEstupendaTests\obj\Debug\LaLigaEstupendaTests.dll
+c:\users\hecto\onedrive\documentos\visual studio 2015\Projects\LaLigaEstupenda\LaLigaEstupendaTests\obj\Debug\LaLigaEstupendaTests.pdb
+C:\Proyectos\LaLigaEstupenda\LaLigaEstupendaTests\bin\Debug\LaLigaEstupendaTests.dll
+C:\Proyectos\LaLigaEstupenda\LaLigaEstupendaTests\bin\Debug\LaLigaEstupendaTests.pdb
+C:\Proyectos\LaLigaEstupenda\LaLigaEstupendaTests\bin\Debug\LaLigaEstupenda.exe
+C:\Proyectos\LaLigaEstupenda\LaLigaEstupendaTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Proyectos\LaLigaEstupenda\LaLigaEstupendaTests\bin\Debug\LaLigaEstupenda.pdb
+C:\Proyectos\LaLigaEstupenda\LaLigaEstupendaTests\obj\Debug\LaLigaEstupendaTests.csprojResolveAssemblyReference.cache
+C:\Proyectos\LaLigaEstupenda\LaLigaEstupendaTests\obj\Debug\LaLigaEstupendaTests.dll
+C:\Proyectos\LaLigaEstupenda\LaLigaEstupendaTests\obj\Debug\LaLigaEstupendaTests.pdb

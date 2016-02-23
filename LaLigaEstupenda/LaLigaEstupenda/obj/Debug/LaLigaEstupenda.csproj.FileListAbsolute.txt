@@ -1,0 +1,12 @@
+c:\users\hecto\onedrive\documentos\visual studio 2015\Projects\LaLigaEstupenda\LaLigaEstupenda\bin\Debug\LaLigaEstupenda.exe.config
+c:\users\hecto\onedrive\documentos\visual studio 2015\Projects\LaLigaEstupenda\LaLigaEstupenda\bin\Debug\LaLigaEstupenda.exe
+c:\users\hecto\onedrive\documentos\visual studio 2015\Projects\LaLigaEstupenda\LaLigaEstupenda\bin\Debug\LaLigaEstupenda.pdb
+c:\users\hecto\onedrive\documentos\visual studio 2015\Projects\LaLigaEstupenda\LaLigaEstupenda\obj\Debug\LaLigaEstupenda.exe
+c:\users\hecto\onedrive\documentos\visual studio 2015\Projects\LaLigaEstupenda\LaLigaEstupenda\obj\Debug\LaLigaEstupenda.pdb
+c:\users\hecto\onedrive\documentos\visual studio 2015\Projects\LaLigaEstupenda\LaLigaEstupenda\obj\Debug\LaLigaEstupenda.csprojResolveAssemblyReference.cache
+C:\Proyectos\LaLigaEstupenda\LaLigaEstupenda\bin\Debug\LaLigaEstupenda.exe.config
+C:\Proyectos\LaLigaEstupenda\LaLigaEstupenda\obj\Debug\LaLigaEstupenda.exe
+C:\Proyectos\LaLigaEstupenda\LaLigaEstupenda\obj\Debug\LaLigaEstupenda.pdb
+C:\Proyectos\LaLigaEstupenda\LaLigaEstupenda\obj\Debug\LaLigaEstupenda.csprojResolveAssemblyReference.cache
+C:\Proyectos\LaLigaEstupenda\LaLigaEstupenda\bin\Debug\LaLigaEstupenda.exe
+C:\Proyectos\LaLigaEstupenda\LaLigaEstupenda\bin\Debug\LaLigaEstupenda.pdb
